@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #EBD3F8;
+}
+main{
+    display: flex;
+    justify-content: space-evenly;
+    margin:2rem;
+    border-radius: 2rem;
+    background-color: #AD49E1;
+    width: 90rem;
+    height:40rem;
+    box-shadow: 0 1rem 3rem black;
+}
+.side{
+    width: 23rem;
+    height: 23rem;
+    margin-top: 12rem;
+    margin-right: 15rem;
+}
+.for{
+    margin-top: 3rem;
+    padding: 1rem;
+}
+input{
+    width: 15rem;
+    margin-top: 1rem;
+    padding: 0.3rem;
+}
+label{
+    font-size: larger;
+}
+#bu{
+    margin-left: 2rem;
+}
+span{
+    margin-bottom: 1rem;
+}
